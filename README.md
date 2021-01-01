@@ -2,7 +2,7 @@
 ![](https://i.ytimg.com/vi/ciNiUuRvmbk/maxresdefault.jpg)
 (Copyright hr-fernsehen)
 
-The picture is a still from German quiz-show "wer weiss es?". The rules of this puzzle (presented in the final round of the show) are the following: the first 3-letter word is given, and each next word must be a permutation of the previous word plus exactly one new letter (ach -> a**u**ch -> **l**auch -> **s**chlag).
+The picture is a still from German quiz-show "wer weiss es?". The rules of this puzzle (presented in the final round of the show) are the following: the first 3-letter word is given, and each next word must be a permutation of the previous word plus exactly one new letter (ach -> a**u**ch -> **l**auch -> **s**chlau).
 
 Here is a generator of such puzzles. It uses a dictionary and generates a puzzle like the above.
 
